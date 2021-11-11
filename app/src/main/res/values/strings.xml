@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProductAppServerSide</string>
+    <string name="slogan">We transport product to customers as quickly as our ex betrays</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="title_activity_tracking_order_maps">TrackingOrderMapsActivity</string>
+    <string name="title_activity_tracking_order">TrackingOrder</string>
+</resources>
